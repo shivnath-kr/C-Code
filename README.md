@@ -1,4 +1,4 @@
-# 📘 C++ Project: Basic Calculator
+# 📘 C++ Project: MY C++ Project
 
 ## 📖 Overview
 This project is a simple **C++ calculator** that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.  
